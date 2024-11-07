@@ -1,6 +1,5 @@
 package com.example.omdb.servicos;
 
-import com.example.omdb.model.Serie;
 import com.fasterxml.jackson.databind.ObjectMapper;
 
 public class ConverteDados implements IConverteDados {
