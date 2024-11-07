@@ -9,7 +9,7 @@ Este projeto faz uso da API OMDB para buscar informações sobre séries e epis�
 
 1. Clone o repositório:
     ```sh
-    git clone https://github.com/seu-usuario/seu-repositorio.git
+    git clone https://github.com/vitoriasilva13/JavaMavenOmdb.git
     cd seu-repositorio
     ```
 
