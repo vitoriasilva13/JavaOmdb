@@ -1,4 +1,23 @@
-O projeto faz uso da API Omdb.
+Este projeto faz uso da API OMDB para buscar informações sobre séries e episódios.
 
-Para rodar o projeto, gere uma api na página https://www.omdbapi.com/apikey.aspx e adicione no arquivo Main no código mostrado abaixo:
-![image](https://github.com/user-attachments/assets/79745356-98e6-4b3c-b5b5-644d4fa70adc)
+## Pré-requisitos
+
+- Java 11 ou superior
+- Uma chave de API da OMDB
+
+## Instalação
+
+1. Clone o repositório:
+    ```sh
+    git clone https://github.com/seu-usuario/seu-repositorio.git
+    cd seu-repositorio
+    ```
+
+2. Gere uma chave de API na página [OMDB API](https://www.omdbapi.com/apikey.aspx).
+
+3. Adicione a chave de API no arquivo `Main.java`:
+    ```java
+    private final String API_KEY = "&apikey={sua_api_key}";
+    ```
+
+4. Compile o projeto.
