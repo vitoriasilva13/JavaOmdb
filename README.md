@@ -19,5 +19,4 @@ Este projeto faz uso da API OMDB para buscar informações sobre séries e epis�
     ```java
     private final String API_KEY = "&apikey={sua_api_key}";
     ```
-
-4. Compile o projeto.
+4. Execute o arquivo `Main.java`.
