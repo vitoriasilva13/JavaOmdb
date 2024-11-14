@@ -8,7 +8,8 @@ public enum Categoria {
     FANTASIA("Fantasy", "Fantasia"),
     FICCAO_CIENTIFICA("Sci-Fi", "Ficção Científica"),
     MISTERIO("Mystery", "Mistério"),
-    TERROR("Horror", "Terror");
+    TERROR("Horror", "Terror"),
+    BIOGRAFIA("Biography", "Biografia");
 
     private String categoriaOmdb;
     private String categoriaPortugues;
